@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>index bot</title>
+    <link rel="icon" href="./somali flag.jpg">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="thomas.html">
+    <header>﷽</header>
+    <style>
+        table {
+    border: 2px rgb(255, 0, 0) groove;
+    border-radius: 1%;
+    width: 100%;
+}
+
+th, td {
+    border: 1px rgb(0, 0, 0) groove;
+    border-radius: 3%;
+}
+
+.one{
+    background-color: rgb(139, 7, 7);
+    color: aliceblue;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+#you {
+    border: 2px solid black;
+    text-align: center;
+    background-color: rgb(5, 247, 25);
+    margin-left:25%;
+    margin-right: 25%;
+}
+    </style>
+</head>
+<body>
+    
+    <h1><li class="one">madexweynayaasha soo marey wadanka</li></h1>
+    <table>
+       <tr>
+           <th>magaca</th>
+           <th>sawirka madexweynaha</th>
+           <th>waqtiga uu qabtey</th>
+           <th>waqtiga uu ka dhacey</th>
+           <th>xisbiga</th>
+       </tr>
+       <tr>
+           <td><a href="https://en.wikipedia.org/wiki/Aden_Adde" target="_blank">aden abdulle osman</a></td>
+           <td><a href="https://en.wikipedia.org/wiki/Aden_Adde#/media/File:Aden_Abdulle_Osman_Daar.jpg" target="_blank"><img src="./Aden_Abdulle_Osman_Daar.jpg" alt="" width="40px" height="60px"></a></td>
+           <td>1960</td>
+           <td>1967</td>
+           <td><b>SYL</b></td>
+       </tr>
+       <tr>
+           <td><a href="https://en.wikipedia.org/wiki/Abdirashid_Shermarke" target="_blank">abdirashid ali sharmake</a></td>
+           <td><a href="https://en.wikipedia.org/wiki/Abdirashid_Shermarke#/media/File:Abdirashid_Ali_Shermarke.jpg" target="_blank"><img src="./Abdirashid_Ali_Shermarke.jpg" alt="" width="40px" height="60px"></a></td>
+           <td>1967</td>
+           <td>1969</td>
+           <td><b>SYL</b></td>
+       </tr>
+       <tr>
+           <td><a href="https://en.wikipedia.org/wiki/Siad_Barre" target="_blank">mohamed siad barre</a></td>
+           <td><a href="https://en.wikipedia.org/wiki/Siad_Barre#/media/File:Siad_Barre.png" target="_blank"><img src="./Siad_Barre.png" alt="" width="40px" height="60px"></a></td>
+           <td>1969</td>
+           <td>1976</td>
+           <td><b>SRSP</b></td>
+       </tr>
+       <tr>
+           <td><a href="https://en.wikipedia.org/wiki/Ali_Mahdi_Muhammad" target="_blank">ali mahdi</a></td>
+           <td><a href="https://en.wikipedia.org/wiki/Ali_Mahdi_Muhammad#/media/File:%D0%90%D0%BB%D0%B8_%D0%9C%D0%B0%D1%85%D0%B4%D0%B8_%D0%9C%D0%BE%D1%85%D0%B0%D0%BC%D0%B5%D0%B4_08_(2020).png" target="_blank"><img src="./Али_Махди_Мохамед_08_(2020).png" alt="" width="40px" height="60px"></a></td>
+           <td>1991</td>
+           <td>1995</td>
+           <td><b>USC</b></td>
+       </tr>
+       <tr>
+           <td><a href="https://en.wikipedia.org/wiki/Abdiqasim_Salad_Hassan" target="_blank">abdiqasim sald hassan</a> </td>
+           <td><a href="https://en.wikipedia.org/wiki/Abdiqasim_Salad_Hassan#/media/File:Abdiqasimsalad.jpg" target="_blank"><img src="./Abdiqasimsalad.jpg" alt="" width="40px" height="60px"></a></td>
+           <td>2000</td>
+           <td>2004</td>
+           <td><b>N-P</b></td>
+       </tr>
+       <tr>
+           <td><a href="https://en.wikipedia.org/wiki/Abdullahi_Yusuf_Ahmed" target="_blank">abdulahi yusuf ahmed</a></td>
+           <td><a href="https://en.wikipedia.org/wiki/Abdullahi_Yusuf_Ahmed#/media/File:Abdullahi_Yusuf_Ahmed_(28-03-2006).jpg" target="_blank"><img src="./Abdullahi_Yusuf_Ahmed_(28-03-2006).jpg" alt="" width="40px" height="60px"></a></td>
+           <td>2004</td>
+           <td>2008</td>
+           <td><b>SSDF</b></td>
+       </tr>
+       <tr>
+           <td><a href="https://en.wikipedia.org/wiki/Sharif_Sheikh_Ahmed" target="_blank">sharif sheikh ahmed</a></td>
+           <td><a href="https://en.wikipedia.org/wiki/Presidency_of_Sharif_Sheikh_Ahmed#/media/File:Somali_President_Sheik_Sharif_visits_Balad_Town_12_(7703057976)_(cropped).jpg" target="_blank"><img src="./Somali_President_Sheik_Sharif_visits_Balad_Town_12_(7703057976)_(cropped).jpg" alt="" width="40px" height="60px"></a></td>
+           <td>2009</td>
+           <td>2012</td>
+           <td><b>ARS</b></td>
+       </tr>
+       <tr>
+           
+           <td><a href="https://en.wikipedia.org/wiki/Hassan_Sheikh_Mohamud" target="_blank">hasan sheikh mohamud</a></td>
+           <td><a href="https://en.wikipedia.org/wiki/Hassan_Sheikh_Mohamud#/media/File:His_Excellency_President_Hassan_Sheikh_Mohamud_(cropped).jpg" target="_blank"><img src="./His_Excellency_President_Hassan_Sheikh_Mohamud_(cropped).jpg" alt="" width="40px" height="60px"></a></td>
+           <td>2012</td>
+           <td>1027</td>
+           <td><b>PDP</b></td>
+       </tr>
+       <tr>
+            <td><a href="https://en.wikipedia.org/wiki/Mohamed_Abdullahi_Mohamed" target="_blank">mahamed abdilahi farmajo</a></td>
+            <td><a href="https://en.wikipedia.org/wiki/Mohamed_Abdullahi_Mohamed#/media/File:His_Excellency_President_Mohamed_Abdullahi_Mohamed_Farmaajo.jpg" target="_blank"><img src="./His_Excellency_President_Mohamed_Abdullahi_Mohamed_Farmaajo.jpg" alt="" width="40px" height="60px"></a></td>
+            <td>2017</td>
+            <td>2022</td>
+            <td><b>PDP</b></td>
+       </tr>
+       <tr>
+           <td><a href="https://en.wikipedia.org/wiki/Hassan_Sheikh_Mohamud" target="_blank">hasan sheikh mohamud</a></td>
+           <td><a href="https://en.wikipedia.org/wiki/Hassan_Sheikh_Mohamud#/media/File:His_Excellency_President_Hassan_Sheikh_Mohamud_(cropped).jpg" target="_blank"><img src="./His_Excellency_President_Hassan_Sheikh_Mohamud_(cropped).jpg" alt="" width="40px" height="60px"></a></td>
+           <td>2012</td>
+           <td>1027</td>
+           <td><b>PDP</b></td>
+       </tr>
+    </table>
+  
+
+    <h1 id="you">dowlada soamlia</h1>
+    <p qu class="four">Soomaaliya <mark> (Af Ingiriis : Somalia, Af Carabi الصومال, Wadaad:
+         ‏صومالِيَ‎) </mark>, sida rasmiga ah loo yaqaano Jamh
+         uuriyadda Federaalka Soomaaliya (Af Ingiriis : Federal Repu
+         blic of Somalia) (waxaa hore loo oran jirey Jamhuuriyadda 
+         Dimuqraadiga Soomaaliya xiligii hore ee Hantiwadaaga), oo 
+         sii dhaxal ahaana loo yaqaano Soomaal waa Dowlad iyo wadan
+          dhacda Geeska Afrika ama Foolalka Afrika ee kasii socda M
+          arinka Gardafuul. Wuxuu ka kooban yahay maamul goboleedyo
+           sida Puntland, Jubaland, Galmudug, Hirshabeelle, Koonfur
+            Galbeed. Waxaa ka xiga bariga marinka Gardafuul iyo Sey
+            shelles, iyo Soqotra iyo badda Soomaal, koofuurna Kenya.
+             Waxaa ku nool dad Faanyahan ah, iyo dadka Dhul-hoos Bari K
+             ushiitik ah.</p>
+        <div>
+        <img src="./pictures code html/somali.jpg" alt="madexweyne">
+        <img src="./somali flag.jpg" alt="somali flag" width="400" height="220">
+        </div>
+        <h2>bilicda wadanka</h2>
+        <p class="four">Magacaabistiisa ayay madaxtooyadu sheegtay in lagu saleeyay
+             aqoonta iyo waayo-aragnimada shaqo ee uu leeyahay, maaddaama
+              uu xilkan horay u soo qabtay. Qoraal la soo dhigay barta Face
+              book ee madaxtooyada ayaa mas’uulkaas ku amaanay inuu “door wanaa
+              gsan ka soo qaatay dib-u-dhiska Muqdisho iyo guud ahaan horumarka 
+              Gobolka Banaadir”.Madaxweynuhu wuxuu ka filayaa duqa cusub inuu mu
+              hiimad gaar ah siiyo amniga iyo xasilloonida caasimadda, xoojinta 
+              wada-shaqaynta laammaha amniga iyo bulshada gobolka Banaadir, dib-
+              u-heshiisiinta, bilicda iyo baahinta adeegyada aasaasiga ah oo dha
+              mmaan la sheegay inay mudnaan u leeyihiin dowladda hadda jirta.Mas’
+              uulkaan 57-jirka ah ayaa noqonaya mas’uulka afaraad ee markii labaa
+              d ku soo noqda xil uu horay u soo qabtay, dowladda hadda jirta. Wax
+              aa xusid mudan in aan taariikhda Soomaaliya ee dhow lagu xusuusan in
+              ay hal maamul/dowlad ku kulmaan afar mas’uul oo xilalkooda dib ugu s
+              oo noqday..</p>
+             <img src="./pictures code html/biicda.webp" alt="quruxa wadanka">
+             <h3>qaabka dorashada</h3>
+             <ul>
+                <li>lacag $40000</li>
+                <li>mobile la'aan</li>
+                <li>hadl la'aan</li>
+                <ul>
+                    <li>bilaa buuq</li>
+                    <li>yaan la'isla hadlin</li>
+                </ul>
+             </ul>
+             <h1>maxaa laga faa'iidey madexdii dalka soo martey </h1>
+             <ol>
+                <li>dagaal</li>
+                <li>baahi</li>
+                <li>gaajo</li>
+                <li>qax</li>
+                <ul>
+                    <li>wadankoo laga cararo</li>
+                    <li>dhalinyartoo tahriibta</li>
+                    <li>shacabko kala shakiyey</li>
+                </ul>
+             </ol>
+</body>
+</html>
