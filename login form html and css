@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>try</title>
+    <link rel="stylesheet" href="try.css">
+    <link rel="shortcut icon" href="./pictures code html/somali.jpg" type="image/x-icon">
+    <style>
+        body{
+    display: flex;
+    align-items: center;
+    font-family: sans-serif ;
+    background: rgb(186, 194, 141);
+    margin: 0;
+    flex-direction: column;
+    line-height: 1.5;
+    min-height: 100vh;
+    justify-content: center;
+}
+
+.bot {
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgb(80, 73, 73);
+    padding: 10px 20px;
+    text-align: center;
+    width: 500px;
+    
+}
+
+label{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    text-align: center;
+    color: rgb(58, 50, 39);
+    font-weight: bold;
+    width: 100%;
+    text-align: left;
+}
+
+input {
+    display: block;
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px groove black;
+    border-radius: 6px;
+    box-sizing: border-box;
+
+}
+
+
+button{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 5px;
+    padding: 14px;
+    background-color: rgb(63, 218, 140);
+    font-size: 16px;
+    width: 100%;  
+    cursor: progress;
+    cursor: cell;
+
+}
+.noop {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+    </style>
+</head>
+<body>
+    <div class="bot">
+    <form action="shiine.html">
+        <label for="fname">username</label>
+        <input type="text" name="fname" id="fname" placeholder="enter your name" required>
+        <label for="Email">gmail</label>
+        <input type="text" name="Email" id="Email" placeholder="enter your Email" required>
+        <label for="pwd">password</label>
+        <input type="password" name="pwd" id="pwd" placeholder="enter your password" required>
+
+        <div class="noop">
+            <button type="submit" onclick="solve()">submit</button>
+        </div>
+    </form>
+       <p>not registered?
+        <a href="#" style="text-decoration: none;">Create an account</a>
+       </p>
+</div>
+</body>
+</html>  
+       
