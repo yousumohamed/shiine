@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>toyota</title>
+</head>
+<body>
+    <h1>soo dhawoow walal</h1>
+    <hr>
+    <h1 style="color: rgb(250, 17, 17);">toyota v8</h1>
+    <hr>
+    <div>
+    <img src="./v8 toyota.jpg" alt="toyota" width="300" height="150">
+    <img src="./white v8.webp" alt="toyota" width="300"
+        height="150">
+    </div>
+    <hr>
+    <h1>
+    <p style="color: rgb(255, 15, 15);"><b>harrier 2009</b></p>
+</h1>
+
+    <div>
+        <img src="./2009 balack.png" alt="toyota" width="300" height="150">
+        <img src="./Toyota-Harrier-2009.jpg" alt="toyota" width="300" height="150">
+    </div>
+
+    <p><b>every thing is great thanks for asking teacher carol</b></p>
+    <br>
+    <h1>
+    <a href="https://yousufshiine77.blogspot.com/">yousuf</a>
+    </h1>
+    BUTTON
+    <button>
+        click this Shine-logo-website
+        <a href="https://yousufshiine77.blogspot.com/">yousuf</a>
+    </button>    
+    <hr>
+
+    <ul>
+        <p style="color: rgb(255, 16, 16);">advantage of toyota</p>
+        <li>commitment to quality</li>
+        <li>Known for its reliability</li>
+        <li>dependability and reliability</li>
+    </ul>
+
+    <ol>
+        <p style="color: rgb(255, 10, 10);">disadvantage of toyota</p>
+        <li>Relatively less fun to drive</li>
+        <li>Toyota vehicles are designed to focus primarily on comfort</li>
+        <li>Water Pumps</li>
+    </ol>
+    <hr>
+    <p><b><li style="background-color: rgb(124, 255, 18);">i find it very engaging and helpful Ms carol. 
+        watching the recording has helped
+         me learn grammer, and attending the live zoom sessions has been great for 
+         asking practice. i highly recommended U-learns to anyone looking to imnprove 
+         their english speaking and writting skills
+    </b> 
+    </li>
+    </p>
+
+    <hr>
+
+   TABLE 
+   <table> 
+    <tr style="color: blue;">
+
+    <table border="3" style="border-collapse:collapse" >
+        <thead style="color: rgb(255, 27, 27);">
+        <th>name</th>
+        <th>cost</th>
+        <th>year</th>
+    </tr>
+
+    <tbody>
+        <tr style="color: blue;">
+            <td>harrier</td>
+            <td>11000</td>
+            <td>2009</td>
+        </tr>
+        <tr style="color: blue;
+        ">
+            <td>v8</td>
+            <td>20000</td>
+            <td>2015</td>
+        </tr>
+        <tr style="color: blue;">
+            <td>gluccer</td>
+            <td>7000</td>
+            <td>2011</td>
+        </tr>
+    </tbody>
+
+
+   </table>
+   
+   
+
+
+    
+</body>
+</html>
